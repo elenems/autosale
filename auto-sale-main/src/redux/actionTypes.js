@@ -1,0 +1,10 @@
+export const LOGOUT_USER = "LOGOUT_USER";
+export const SIGNUP_USER = "SIGNUP_USER";
+export const SET_ERRORS = "SET_ERRORS";
+export const REMOVE_ERRORS = "REMOVE_ERRORS";
+export const SET_LOADING = "SET_LOADING";
+export const REMOVE_LOADING = "REMOVE_LOADING";
+export const AUTHENTICATE_USER = "AUTHENTICATE_USER";
+export const SET_USER = "SET_USER";
+export const GET_USER = "GET_USER";
+export const UPDATE_USER = "UPDATE_USER";

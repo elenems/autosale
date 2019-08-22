@@ -1,0 +1,70 @@
+p{
+  margin:0px;
+}
+ul{
+  list-style-type: none;
+  padding: 0px;
+}
+.row{
+  padding-top: 15px;
+}
+
+a.logo{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+a.logo span{
+  color:#26a69a;
+  font-weight: 400;
+}
+
+.space-left{
+  margin-left: 20px;
+}
+
+.css-1hwfws3{
+  height: 40px;
+}
+
+.css-1uccc91-singleValue{
+  top:70%!important;
+}
+
+a{
+  color:black;
+}
+
+.input-check{
+  font-size: 14px;
+  color:#ef0f0e;
+  display:block;
+  margin-bottom: 10px;
+}
+
+.loader-container{
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+}
+h2{
+  text-align: center;
+}
+
+.profile-buttons-container{
+  float:right;
+}
+.profile-buttons-container a:first-child{
+  margin-right:10px;
+}
+#remove-button{
+  margin-left: 10px;
+}
+
+.profile-car{
+  margin-top:30px;
+}
+
+h4, h5, h2{
+  color:#26a69a;
+}
